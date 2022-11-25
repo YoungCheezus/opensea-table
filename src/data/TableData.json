@@ -1,0 +1,90 @@
+[
+  {
+    "key": "1",
+    "name": "John Brown1",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "ETH",
+    "position": ["trending"],
+    "passed": "1"
+  },
+  {
+    "key": "2",
+    "name": "John Brown2",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "ETH",
+    "position": ["trending", "top"],
+    "passed": "3"
+  },
+  {
+    "key": "3",
+    "name": "John Brown3",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "ARB",
+    "position": ["top"],
+    "passed": "7"
+  },
+  {
+    "key": "4",
+    "name": "John Brown4",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "AVL",
+    "position": ["trending"],
+    "passed": "16"
+  },
+  {
+    "key": "5",
+    "name": "John Brown5",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "KLT",
+    "position": ["trending"],
+    "passed": "5"
+  },
+  {
+    "key": "6",
+    "name": "John Brown6",
+    "img": "/nft.png",
+    "floorPrice": "6",
+    "volume": "6.5",
+    "currency": "ETH",
+    "chain": "OPT",
+    "position": ["trending", "top"],
+    "passed": "20"
+  },
+  {
+    "key": "7",
+    "name": "John Brown7",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "PLG",
+    "position": ["trending", "top"],
+    "passed": "9"
+  },
+  {
+    "key": "8",
+    "name": "John Brown8",
+    "img": "/nft.png",
+    "floorPrice": "2",
+    "volume": "2.5",
+    "currency": "ETH",
+    "chain": "SLN",
+    "position": ["top"],
+    "passed": "12"
+  }
+]

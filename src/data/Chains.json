@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "symbol": "ETH",
+    "name":"Etherium"
+  },
+  {
+    "id": 2,
+    "symbol": "ARB",
+    "name": "Arbitrum"
+  },
+  {
+    "id": 3,
+    "symbol": "AVL",
+    "name": "Avalanche"
+  },
+  {
+    "id": 4,
+    "symbol": "KLT",
+    "name": "Klaytn"
+  },
+  {
+    "id": 5,
+    "symbol": "OPT",
+    "name": "Optimism"
+  },
+  {
+    "id": 6,
+    "symbol": "PLG",
+    "name": "Polygon"
+  },
+  {
+    "id": 7,
+    "symbol": "SLN",
+    "name": "Solana"
+  }
+]
